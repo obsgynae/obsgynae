@@ -24,4 +24,4 @@ fields:
     required: false
   label: permalink
 pages:
-- clinical-resources/Early Pregnancy Complications/early-pregnancy-complications.md
+- clinical-resources/Early Pregnancy Complications/index.md
