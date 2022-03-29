@@ -12,6 +12,11 @@ sections:
   label: Clinical resources
   create: all
   match: "**/*"
+- type: directory
+  path: podcasts
+  label: Podcasts
+  create: all
+  match: "**/*"
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''

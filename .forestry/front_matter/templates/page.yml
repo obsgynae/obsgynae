@@ -23,6 +23,3 @@ fields:
   config:
     required: false
   label: permalink
-pages:
-- docs/configuration/configuration.md
-- docs/navigation-structure.md
