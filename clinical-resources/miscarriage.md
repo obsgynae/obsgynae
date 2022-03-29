@@ -8,6 +8,7 @@ has_children: false
 topics:
 - pregnancy
 date: 2022-03-29 00:00:00 +1000
+author: Isaac Hanley
 
 ---
 General resources on miscarriage.
