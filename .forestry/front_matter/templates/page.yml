@@ -16,6 +16,11 @@ fields:
   config:
     required: false
   label: parent
+- name: grand_parent
+  type: text
+  config:
+    required: false
+  label: grand_parent
 - type: number
   name: nav_order
   label: nav_order
