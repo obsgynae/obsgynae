@@ -41,6 +41,11 @@ fields:
   type: tag_list
   default: []
   label: topics
+- name: author
+  type: text
+  config:
+    required: false
+  label: author
 - name: date
   type: datetime
   label: date
