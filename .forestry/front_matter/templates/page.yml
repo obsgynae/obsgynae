@@ -23,3 +23,5 @@ fields:
   config:
     required: false
   label: permalink
+pages:
+- clinical-resources/Early Pregnancy Complications/early-pregnancy-complications.md
