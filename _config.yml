@@ -1,7 +1,7 @@
 title: Obsgynae
 description: Obstetrics and gynacology resources to help provide the best in patient care
-baseurl: "/obsgynae" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "obsgynae.com.au" # the base hostname & protocol for your site, e.g. http://example.com
 
 remote_theme: just-the-docs/just-the-docs
 permalink: pretty
