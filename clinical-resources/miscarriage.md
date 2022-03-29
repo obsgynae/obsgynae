@@ -5,6 +5,9 @@ title: Miscarriage
 parent: Clinical resources
 nav_order: 1
 has_children: false
+topics:
+- pregnancy
+date: 2022-03-29 00:00:00 +1000
 
 ---
 General resources on miscarriage.
