@@ -1,5 +1,5 @@
 ---
-label: Children page
+label: Article page
 hide_body: false
 fields:
 - name: layout
@@ -19,14 +19,37 @@ fields:
   config:
     required: false
   label: parent
+  default: Clinical resources
 - name: nav_order
-  type: text
-  config:
-    required: false
+  type: number
   label: nav_order
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 - name: has_toc
   type: boolean
   label: has_toc
   default: true
+- name: has_children
+  type: boolean
+  label: has_children
+- name: topics
+  type: tag_list
+  default: []
+  label: topics
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: DD-MM-YYYY
+    time_format: 
+    display_utc: false
+  default: now
 pages:
 - clinical-resources/miscarriage.md
