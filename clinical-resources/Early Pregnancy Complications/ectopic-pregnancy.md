@@ -1,10 +1,10 @@
 ---
 layout: default
-parent: Clinical resources
+parent: Early Pregnancy Complications
 nav_order: 
 has_toc: true
 topics: []
-date: 2022-03-29 21:14:51 +1000
+date: 2022-03-29T21:14:51.000+10:00
 title: Ectopic pregnancy
 has_children: false
 author: Isaac Hanley
