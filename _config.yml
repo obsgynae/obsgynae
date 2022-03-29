@@ -7,7 +7,7 @@ remote_theme: just-the-docs/just-the-docs
 permalink: pretty
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/obsgynae-03.svg"
+logo: "/assets/images/obsgynae-03-sm.png"
 
 # Enable or disable the site search
 search_enabled: true
