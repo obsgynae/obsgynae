@@ -20,6 +20,11 @@ fields:
     required: false
   label: parent
   default: Clinical resources
+- name: grand_parent
+  type: text
+  config:
+    required: false
+  label: grand_parent
 - name: nav_order
   type: number
   label: nav_order
