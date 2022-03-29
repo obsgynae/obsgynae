@@ -1,7 +1,8 @@
 ---
 layout: default
-has_children: true
+has_children: false
 title: Early Pregnancy Complications
-nav_order: 1
+nav_order: 
+parent: Clinical resources
 
 ---
