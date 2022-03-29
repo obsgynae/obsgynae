@@ -57,4 +57,5 @@ fields:
     display_utc: false
   default: now
 pages:
+- clinical-resources/Early Pregnancy Complications/ectopic-pregnancy.md
 - clinical-resources/miscarriage.md
