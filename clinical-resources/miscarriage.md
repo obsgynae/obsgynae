@@ -4,7 +4,6 @@ has_toc: true
 title: Miscarriage
 parent: Clinical resources
 nav_order: "1"
-published: false
 
 ---
 General resources on miscarriage.
