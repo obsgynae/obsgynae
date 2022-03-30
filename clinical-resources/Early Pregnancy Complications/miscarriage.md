@@ -2,13 +2,14 @@
 layout: default
 has_toc: true
 title: Miscarriage
-parent: Clinical resources
+parent: Early Pregnancy Complications
 nav_order: 1
 has_children: false
 topics:
 - pregnancy
-date: 2022-03-29 00:00:00 +1000
+date: 2022-03-29T00:00:00.000+10:00
 author: Isaac Hanley
+grand_parent: Clinical resources
 
 ---
 General resources on miscarriage.
