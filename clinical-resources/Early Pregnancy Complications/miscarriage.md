@@ -7,9 +7,10 @@ nav_order: 1
 has_children: false
 topics:
 - pregnancy
-date: 2022-03-29T00:00:00.000+10:00
+date: '2022-03-29T00:00:00.000+10:00'
 author: Isaac Hanley
 grand_parent: Clinical resources
+last_modified_date: 2022-03-30 00:00:00 +1000
 
 ---
 General resources on miscarriage.
