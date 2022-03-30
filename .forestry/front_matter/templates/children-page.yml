@@ -51,9 +51,9 @@ fields:
   config:
     required: false
   label: author
-- name: date
+- name: last_modified_date
   type: datetime
-  label: date
+  label: last_modified_date
   description: ''
   config:
     required: false
