@@ -1,6 +1,6 @@
 # Obsgynae
 
-Obstetrics and gynaecology resources to help provide the best in patient care.
+Obstetrics and gynaecology resources to help provide the best in patient care. This repository contains the source for the www.obsgynae.com.au site. 
 
 ## LICENSE
 
