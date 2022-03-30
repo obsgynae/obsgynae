@@ -9,7 +9,7 @@ This work is licensed under a
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
-[Just the docs Jekyll theme][Just-the-docs-theme] is developed by Patrick Marsceill, and is licensed under the [MIT License][Just-the-docs-license].
+[Just the docs Jekyll theme][Just-the-docs-theme] is developed by Patrick Marsceill, and is licensed under an [MIT License][Just-the-docs-license].
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
