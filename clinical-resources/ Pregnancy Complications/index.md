@@ -1,8 +1,9 @@
 ---
 layout: default
 has_children: true
-title: Early Pregnancy Complications
-nav_order: 1
+title: Pregnancy Complications
+nav_order: 2
 parent: Clinical resources
+has_toc: true
 
 ---

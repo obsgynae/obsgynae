@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TheObsgynaePod
-nav_order: 99
+nav_order: 2
 ---
 
 # TheObsgynaePod
