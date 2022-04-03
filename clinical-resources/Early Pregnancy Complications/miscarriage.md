@@ -16,7 +16,6 @@ grand_parent: Clinical resources
 last_modified_date: 2022-03-30 00:00:00 +1000
 
 ---
-
 # Miscarriage
 
 _Isaac Hanley - April 2022_
@@ -53,7 +52,7 @@ _Isaac Hanley - April 2022_
 
 ===
 
-## Miscarriage – P.R.I.C.M.P
+## Miscarriage – _in detail..._
 
 ### Presentation
 
