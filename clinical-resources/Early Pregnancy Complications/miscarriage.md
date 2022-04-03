@@ -43,6 +43,8 @@ last_modified_date: 2022-03-30 00:00:00 +1000
 2. Medical management with misoprostol
 3. Surgical management by currettage of the uterus
 
+\** if the patient has had 3 miscarriages in a row - they warrant further investigations for this and should be referred to a fertility specialist **
+
 ===
 
 ## Miscarriage – P.R.I.C.M.P
