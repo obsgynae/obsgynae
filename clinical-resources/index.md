@@ -1,26 +1,23 @@
 ---
 layout: default
 title: Clinical resources
-nav_order: 1
+nav_order: "1"
 has_children: true
 
 ---
 # Clinical resources
 
-## To do
-
-Fill in these articles
-
 ### Early Pregnancy Complications
 
-* Miscarriage
-* Ectopic pregnancy
+* [Miscarriage](https://www.obsgynae.com.au/clinical-resources/Early%20Pregnancy%20Complications/miscarriage/ "Miscarriage")
+* [Ectopic pregnancy](https://www.obsgynae.com.au/clinical-resources/Early%20Pregnancy%20Complications/ectopic-pregnancy/ "Ectopic")
 * Hyperemesis Gravidarum
 
 ### Pregnancy Complications
 
 * Pre-eclampsia & eclampsia
 * Antepartum haemorrhage
+* Postpartum haemorrhage
 * Maternal arrest
 
 ### Gynaecological Emergencies
