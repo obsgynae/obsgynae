@@ -19,7 +19,7 @@ last_modified_date: 2022-03-30 00:00:00 +1000
 
 # Miscarriage
 
-Isaac Hanley - April 2022
+_Isaac Hanley - April 2022_
 
 ### Symptoms
 
