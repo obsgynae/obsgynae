@@ -13,16 +13,15 @@ grand_parent: Clinical resources
 last_modified_date: 2022-03-30 00:00:00 +1000
 
 ---
-General resources on miscarriage.
+# Miscarriage
 
-===
-## General
 ### Symptoms
 
 * crampy, lower abdominal pain
 * PV bleeding
 
 ### Examination Findings
+
 * Tender but not peritonitic lower abdomen
 * Cervix examination (is it open? are there products-of-conception in the cervical os?)
 
@@ -72,6 +71,7 @@ General resources on miscarriage.
 * ETOH/substance use
 
 #### Investigations
+
 Blood tests:
 
 * betaHCG: this is an important baseline – TV USS cannot reliably identify an intrauterine pregnancy when levels are below 1500 IU/L
@@ -102,7 +102,9 @@ Patients having a miscarriage can lose large volumes of blood quickly – like a
 * Analgesia
 
 #### Speculum examination
+
 It’s important to see the cervix, if there are products distending the cervix it will…
+
 * increase blood loss
 * decrease blood pressure (autonomic stimulation dropping BP)
 
@@ -111,6 +113,7 @@ It’s important to see the cervix, if there are products distending the cervix 
 In Australia – if treatment is required most women are offered the choice from the three options below:
 
 #### Expectant
+
 * appropriate for haemodynamically stable patients
 * best for reliable patient who has good social supports and reasonable ability to get to a hospital quickly if haemorrhage develops
 * betaHCG monitoring with GP to ensure it is dropping
@@ -127,6 +130,7 @@ In Australia – if treatment is required most women are offered the choice from
 * suspicion of gestational trophoblastic disease (see below)
 
 ### Complications
+
 #### Short term
 
 * haemorrhage
@@ -145,9 +149,11 @@ In Australia – if treatment is required most women are offered the choice from
   * Gestational Trophoblastic Disease
 
 A final point:
+
 > This is a very difficult time for women and often it is left to the most junior doctor in the department to manage these situations(especially if the woman is stable). Be sure to offer support services to the women and make sure you take the time to tell them that you’re sorry for their loss. Even women who have had many babies find this a traumatic time and your actions and behaviour will be remembered by the family for a long time. Numbers of miscarriage are hard to quantify but it likely affects 25% of pregnancies – i.e. it is normal!
 
 ## Some definitions
+
 * Miscarriage: the loss of a pregnancy before 20 weeks of completed gestation.
 * Complete miscarriage: A miscarriage is complete when there is an empty uterus on USS and the beta HCG has returned to zero.
 * Incomplete miscarriage: Symptoms of a miscarriage but with USS evidence of retained products in the uterus.
