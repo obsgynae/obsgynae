@@ -2,14 +2,17 @@
 layout: default
 has_toc: true
 title: Miscarriage
-parent: Early Pregnancy Complications
+parent: Clinical resources
 nav_order: 1
 has_children: false
 topics:
 - pregnancy
+- miscarriage
+- bleeding
+- molar
 date: '2022-03-29T00:00:00.000+10:00'
 author: Isaac Hanley
-grand_parent: Clinical resources
+grand_parent: ''
 last_modified_date: 2022-03-30 00:00:00 +1000
 
 ---
