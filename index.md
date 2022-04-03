@@ -21,7 +21,7 @@ Women's health resources to help provide the best in patient care.
 
 The critical care sector has been ahead of the curve when it comes to creating usable, free resources - such as the excellent "Life in the Fast Lane" website (www.litfl.com) and  pre-covid SMACC conferences (Social media in critical care).
 
-The free, open access medical education movement, aka FOAMEd, was created to remove barriers to accessing high quality, uncomplicated and simple resources that can be used. These resources might be used after taking a history, mid-resus or at night reflecting on events from the day.  I know as a medical ward call RMO dealing with hyperkalaemia or with QT abnormalities I have used resources such as LITFL and they are quite literally life-savers.
+The free, open access medical education movement, aka FOAMEd, was created to remove barriers to accessing high quality and simple resources that can be used "at the coal face". These resources might be used after taking a history, mid-resus or at night reflecting on events from the day.  I know as a medical ward call RMO dealing with hyperkalaemia or with QT abnormalities I have used resources such as LITFL and they are quite literally life-savers.
 
 obsgynae.com.au is our attempt to provide some simple resources that can be used by generalists, residents, ED nurses and medical students to help streamline patient care and improve understandings around women's health.  
 
