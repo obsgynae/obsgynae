@@ -29,7 +29,7 @@ _Isaac Hanley - April 2022_
 
 ---
 
-<div class="code-example bg-grey-dk-100 text-grey-dk-100" markdown="1">
+<div class="code-example bg-grey-lt-100" markdown="1">
 ## Summary
 
 ### Symptoms
