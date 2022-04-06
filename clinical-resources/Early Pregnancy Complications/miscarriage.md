@@ -29,8 +29,8 @@ _Isaac Hanley - April 2022_
 1. TOC
    {:toc}
 
-***
-```
+
+
 ## Summary
 
 ### Symptoms
@@ -72,7 +72,7 @@ _Isaac Hanley - April 2022_
 3. Surgical management by currettage of the uterus
 
 \** if the patient has had 3 miscarriages in a row - they warrant further investigations for this and should be referred to a fertility specialist **
-```
+
 
 
 ## Miscarriage
