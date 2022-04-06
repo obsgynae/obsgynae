@@ -17,8 +17,20 @@ last_modified_date: 2022-03-30 00:00:00 +1000
 
 ---
 # Miscarriage
+{: .no_toc }
 
 _Isaac Hanley - April 2022_
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div class="code-example" markdown="1">
+## Summary
 
 ### Symptoms
 
@@ -50,9 +62,9 @@ _Isaac Hanley - April 2022_
 
 \** if the patient has had 3 miscarriages in a row - they warrant further investigations for this and should be referred to a fertility specialist **
 
-===
+</div>
 
-## Miscarriage – _in detail..._
+## Miscarriage
 
 ### Presentation
 
