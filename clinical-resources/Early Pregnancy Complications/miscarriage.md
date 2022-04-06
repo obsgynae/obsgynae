@@ -17,38 +17,36 @@ last_modified_date: 2022-03-30 00:00:00 +1000
 
 ---
 # Miscarriage
-
 {: .no_toc }
 
 _Isaac Hanley - April 2022_
 
 ## Table of contents
-
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
+---
+
+<div class="code-example" markdown="1">
 <span class="bg-grey-dk-100 text-grey-dk-100">
 
 ## Summary
 
 ### Symptoms
-
 {: .no_toc }
 
 * crampy, lower abdominal pain
 * PV bleeding
 
 ### Examination Findings
-
 {: .no_toc }
 
 * Tender but not peritonitic lower abdomen
 * Cervix examination (is it open? are there products-of-conception in the cervical os?)
 
 ### Investigations
-
 {: .no_toc }
 
 * BetaHCG
@@ -57,14 +55,12 @@ _Isaac Hanley - April 2022_
 * USS – transvaginal
 
 ### Initial Management
-
 {: .no_toc }
 
 * stabilise the pt – DRSABCD
 * ask: is this patient suitable for outpatient management?
 
 ### Definitive management
-
 {: .no_toc }
 
 1. Expectant management
@@ -73,7 +69,7 @@ _Isaac Hanley - April 2022_
 
 \** if the patient has had 3 miscarriages in a row - they warrant further investigations for this and should be referred to a fertility specialist **
 
-</span>
+</span></div>
 
 ## Miscarriage
 
