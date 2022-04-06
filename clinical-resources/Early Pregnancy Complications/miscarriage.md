@@ -29,7 +29,8 @@ _Isaac Hanley - April 2022_
 1. TOC
    {:toc}
 
-<span class=".bg-grey-dk-100 .text-grey-dk-100">
+<span class="bg-grey-dk-100 text-grey-dk-100">
+
 ## Summary
 
 ### Symptoms
