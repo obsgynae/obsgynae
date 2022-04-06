@@ -30,8 +30,6 @@ _Isaac Hanley - April 2022_
 ---
 
 <div class="code-example" markdown="1">
-<span class="bg-grey-dk-100 text-grey-dk-100">
-
 ## Summary
 
 ### Symptoms
@@ -69,7 +67,7 @@ _Isaac Hanley - April 2022_
 
 \** if the patient has had 3 miscarriages in a row - they warrant further investigations for this and should be referred to a fertility specialist **
 
-</span></div>
+</div>
 
 ## Miscarriage
 
