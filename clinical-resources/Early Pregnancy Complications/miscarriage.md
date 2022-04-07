@@ -21,16 +21,11 @@ last_modified_date: 2022-03-30 00:00:00 +1000
 
 _Isaac Hanley - April 2022_
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 ---
 
 <div class="code-example bg-grey-lt-100" markdown="1">
 ## Summary
+{: .no_toc }
 
 ### Symptoms
 {: .no_toc }
@@ -69,7 +64,13 @@ _Isaac Hanley - April 2022_
 
 </div>
 
-## Miscarriage
+---
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ### Presentation
 
