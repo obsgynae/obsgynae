@@ -14,7 +14,13 @@ last_modified_date:
 ---
 # Ectopic pregnancy
 
+{: .no_toc }
+
 _Isaac Hanley - April 2022_
+
+***
+
+<div class="code-example bg-grey-lt-100" markdown="1">
 
 Any pregnancy that implants outside the uterine endometrium is considered an ectopic pregnancy.  The majority will occur in the fallopian tube but other sites are; uterine cervix, uterine cornua, ovary, caesarean section scar.
 
@@ -35,7 +41,7 @@ Any pregnancy that implants outside the uterine endometrium is considered an ect
 ### Investigations
 
 * BetaHCG
-  * if above 1500 IU/L then a TV-USS should see an intrauterine gestational sac if there is one present 
+  * if above 1500 IU/L then a TV-USS should see an intrauterine gestational sac if there is one present
   * if there is an ectopic there will often be a pregnancy sac identified (location depends on ectopic site)
 * FBC, Group + Hold (rhesus negative women may need anti-D), Crossmatch (if bleeding heavily)
 * USS – transvaginal
@@ -51,3 +57,13 @@ Any pregnancy that implants outside the uterine endometrium is considered an ect
 1. Expectant management
 2. Medical management with methotrexate (either IM or IV)
 3. Surgical management by laparoscopic removal of ectopic
+
+</div>
+
+***
+
+## Table of contents
+
+{: .no_toc .text-delta }
+
+1. TOC {:toc}
