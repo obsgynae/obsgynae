@@ -13,33 +13,39 @@ topics:
 date: '2022-03-29T00:00:00.000+10:00'
 author: Isaac Hanley
 grand_parent: Clinical resources
-last_modified_date: 2022-03-30 00:00:00 +1000
+last_modified_date: 2022-03-30T00:00:00.000+10:00
 
 ---
 # Miscarriage
+
 {: .no_toc }
 
 _Isaac Hanley - April 2022_
 
----
+***
 
 <div class="code-example bg-grey-lt-100" markdown="1">
+
 ## Summary
+
 {: .no_toc }
 
 ### Symptoms
+
 {: .no_toc }
 
 * crampy, lower abdominal pain
 * PV bleeding
 
 ### Examination Findings
+
 {: .no_toc }
 
 * Tender but not peritonitic lower abdomen
 * Cervix examination (is it open? are there products-of-conception in the cervical os?)
 
 ### Investigations
+
 {: .no_toc }
 
 * BetaHCG
@@ -48,12 +54,14 @@ _Isaac Hanley - April 2022_
 * USS – transvaginal
 
 ### Initial Management
+
 {: .no_toc }
 
 * stabilise the pt – DRSABCD
 * ask: is this patient suitable for outpatient management?
 
 ### Definitive management
+
 {: .no_toc }
 
 1. Expectant management
@@ -64,13 +72,13 @@ _Isaac Hanley - April 2022_
 
 </div>
 
----
+***
 
 ## Table of contents
+
 {: .no_toc .text-delta }
 
-1. TOC
-{:toc}
+1. TOC {:toc}
 
 ### Presentation
 
@@ -168,10 +176,10 @@ In Australia – if treatment is required most women are offered the choice from
 #### Long term
 
 * Asherman’s syndrome
+* Gestational Trophoblastic Disease - this is a complication of "molar pregnancies" that requires specialist management for retained pregnancy tissue
 * Mental health implications
   * distress
   * sadness from loss of pregnancy
-  * Gestational Trophoblastic Disease
 
 A final point:
 
@@ -187,7 +195,8 @@ A final point:
 * Missed miscarriage: USS evidence of a non-viable fetus (see criteria above) without symptoms of a miscarriage (i.e. no bleeding).
 * Pregnancy of Unknown Location (PUL): A positive betaHCG and an USS that does not show an intrauterine pregnancy (IUP). Sometimes this will be because the betaHCG threshold hasn’t been met yet – i.e. 1500 IU/L on a TV ultrasound – but other times it is suspicious for ectopic.
 
-Useful resources:
+Useful resources: 
+
 RANZCOG anti D statement – [link here](https://www.ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/Women%27s%20Health/Statement%20and%20guidelines/Clinical-Obstetrics/Guidelines-for-the-use-of-Rh(D)-Immunoglobulin-(Anti-D)-(C-Obs-6)-Review-November-2015.pdf?ext=.pdf)
 
 Red Cross – Anti D information – [link here](https://transfusion.com.au/disease_therapeutics/fetomaternal/hdn)
