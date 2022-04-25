@@ -96,7 +96,7 @@ Patients with an ectopic can either be:
 * maternal age
 * smoking
 
-#### Investigations
+### Investigations
 
 Blood tests:
 
@@ -130,7 +130,7 @@ Pelvic USS:
 * offered as first line for non-tubal ectopics (such as caesarean scar ectopic / cornual ectopic)
 * if tubal ectopic - avoids the removal of a tube (if a woman has previously had a salpingectomy)
 
-\**Both expectant and medical management of an ectopic require a motivated patient.   These options require careful tracking of hCG until it is undetectable - which can take months.  Patients need to agree to engage in this process as neither of these options are guaranteed to work.  It is theoretically possible that a patient may elect to trial "expectant" management then have to have "medical" management before finally needing a laparoscopy!
+_**Both expectant and medical management of an ectopic require a motivated patient.   These options require careful tracking of hCG until it is undetectable - which can take months.  Patients need to agree to engage in this process as neither of these options are guaranteed to work.  It is theoretically possible that a patient may elect to trial "expectant" management then have to have "medical" management before finally needing a laparoscopy!_
 
 #### Surgical (laparoscopy)
 
