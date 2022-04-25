@@ -30,6 +30,8 @@ _Isaac Hanley - April 2022_
 
 {: .no_toc }
 
+Occurs in about 1% of pregnancies
+
 ### Symptoms
 
 {: .no_toc }
@@ -85,7 +87,7 @@ _Isaac Hanley - April 2022_
 * cramp-like, lower abdominal pain (rarely severe)
 * PV bleeding (any bleeding in the first trimester of pregnancy requires consideration of miscarriage)
 
-#### Other Important History
+#### Important History
 
 * date of LMP for pregnancy dating (always ask how regular the woman’s cycle was – if her menstrual cycle was erratic prior to getting pregnant than the LMP pregnancy dating is less accurate)
 * any previous ultrasound scans in this pregnancy
