@@ -108,6 +108,7 @@ Blood tests:
 Pelvic USS:
 
 * Scan should be trans-vaginal to reliably identify a pregnancy in utero and the beta-HCG must be at least 1500 IU/L to expect to see the gestational sac on the image…the likelihood of an ongoing intrauterine pregnancy if this is not seen are low (less than 2%)
+* Sometimes no pregnancy is seen anywhere (i.e. no intrauterine sac, no adnexal mass, normal pelvis, no free fluid) - in these situations the patient has a "pregnancy of unknown location" and needs serial hCG and specialist review
 
 ### Management
 
