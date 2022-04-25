@@ -66,6 +66,8 @@ _Any pregnancy that implants outside the uterine endometrium is considered an ec
 
 {: .no_toc .text-delta }
 
+1. TOC {:toc}
+
 ### Presentation
 
 * Lower abdominal pain
