@@ -22,7 +22,7 @@ _Isaac Hanley - April 2022_
 
 <div class="code-example bg-grey-lt-100" markdown="1">
 
-Any pregnancy that implants outside the uterine endometrium is considered an ectopic pregnancy.  The majority will occur in the fallopian tube but other sites are; uterine cervix, uterine cornua, ovary, caesarean section scar.
+_Any pregnancy that implants outside the uterine endometrium is considered an ectopic pregnancy.  The majority will occur in the fallopian tube but other sites are; uterine cervix, uterine cornua, ovary, caesarean section scar._
 
 ### Symptoms
 
@@ -65,8 +65,6 @@ Any pregnancy that implants outside the uterine endometrium is considered an ect
 ## Table of contents
 
 {: .no_toc .text-delta }
-
-1. TOC {:toc}
 
 ### Presentation
 
