@@ -43,12 +43,11 @@ Any pregnancy that implants outside the uterine endometrium is considered an ect
 ### Initial Management
 
 * stabilise the pt – DRSABCD
-* ask: is this patient suitable for outpatient management?
+  * make sure IV access is large bore (18g at least)
+* keep nil-by-mouth until discussed with the on-call gynaecology registrar
 
 ### Definitive management
 
 1. Expectant management
-2. Medical management with misoprostol
-3. Surgical management by currettage of the uterus
-
-\** if the patient has had 3 miscarriages in a row - they warrant further investigations for this and should be referred to a fertility specialist **
+2. Medical management with methotrexate (either IM or IV)
+3. Surgical management by laparoscopic removal of ectopic
